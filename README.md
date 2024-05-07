@@ -1,1 +1,1 @@
-"# pythongame" 
+"# a very funnily boring project"
